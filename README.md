@@ -5,8 +5,8 @@ React-native
 Nodejs)
 
 Features:
-Splash Screen
-React-native typing Animation
-Animated Login Screen
-Scrollable Header Animation
-Chat UI:React-native-gifted-chat
+Splash Screen,
+React-native typing Animation,
+Animated Login Screen,
+Scrollable Header Animation,
+Chat UI:React-native-gifted-chat.
