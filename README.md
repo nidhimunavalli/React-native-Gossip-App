@@ -1,7 +1,12 @@
 # React-native-Gossip-App
-Its a MERN Stack Development i.e:
-Mongodb
+Its a MERN Stack Development (Mongodb
 Express
 React-native
-Nodejs
-For Chat UI React-native-gifted-chat is used.
+Nodejs)
+
+Features:
+Splash Screen
+React-native typing Animation
+Animated Login Screen
+Scrollable Header Animation
+Chat UI:React-native-gifted-chat
